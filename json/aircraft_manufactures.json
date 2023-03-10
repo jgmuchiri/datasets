@@ -1,148 +1,436 @@
 {
   "us": [
-    "Ace Aircraft Manufacturing Company",
-    "Adcox Aviation Trade School",
-    "Advanced Aircraft",
-    "Aero Adventure",
-    "AeroLites",
-    "Aeronca Aircraft",
-    "AeroVironment",
-    "Air Command International",
-    "Air Tractor",
-    "Airbus North America",
-    "Aircraft Manufacturing and Design",
-    "Aircraft Sales and Parts",
-    "Aircraft Spruce & Specialty Co",
-    "Airdrome Aeroplanes",
-    "Airship Management Services",
-    "Alef Aeronautics",
-    "American Blimp Corporation",
-    "American Champion",
-    "Ampaire",
-    "Archer Aviation",
-    "AviaBellanca Aircraft",
-    "Aviat",
-    "Aviation Partners",
-    "Avid Aircraft",
-    "Backcountry Super Cubs",
-    "Barnett Rotorcraft",
-    "Beaujon Aircraft",
-    "Bede Aircraft",
-    "Beechcraft",
-    "Belite Aircraft",
-    "Beta Technologies",
-    "Boeing Defense, Space & Security",
-    "Boom Technology",
-    "Bye Aerospace",
-    "Calumet Motorsports",
-    "Carlson Aircraft",
-    "Carter Aviation Technologies",
-    "Cessna",
-    "CGS Aviation",
-    "Charlotte Aircraft Corporation",
-    "Cirrus Aircraft",
-    "Comp Air",
-    "Cub Crafters",
-    "Curtiss-Wright",
-    "Eaton Corporation",
-    "Eclipse Aerospace",
-    "Electric Aircraft Corporation",
-    "Ellison-Mahon Aircraft",
-    "Epic Aircraft",
-    "Exosonic",
-    "Frakes Aviation",
-    "Free Bird Innovations",
-    "General Atomics Aeronautical Systems",
-    "General Dynamics",
-    "Glasair Aviation",
-    "Great Lakes Aircraft Company",
-    "Green Sky Adventures",
-    "Griffon Aerospace",
-    "Gulfstream Aerospace",
-    "Gyro-Kopp-Ters",
-    "Hawker Beechcraft",
-    "Hermeus",
-    "Hiller Aircraft",
-    "Honda Aircraft Company",
-    "Hummel Aviation",
-    "ICON Aircraft",
-    "Indy Aircraft",
-    "Infinity Power Chutes",
-    "Joby Aviation",
-    "Just Aircraft",
-    "Kolb Aircraft Company",
-    "Lancair",
-    "Leading Edge Air Foils",
-    "Little Wing Autogyros, Inc.",
-    "Lockheed Martin",
-    "Lockheed Martin Aeronautics",
-    "Lockwood Aircraft",
-    "Makelan Corporation",
-    "Marsh Aviation",
-    "Maule Air",
-    "McDonnell Douglas",
-    "Midwest Engineering & Design",
-    "Mirage Aircraft Corporation",
-    "Mooney International Corporation",
-    "Natilus",
-    "North American Rotorwerks",
-    "North Wing Design",
-    "Northrop Grumman",
-    "One Aviation",
-    "Paramotor Inc",
-    "Paratour",
-    "Pazmany Aircraft Corporation",
-    "Piccard Balloons",
-    "Piper Aircraft",
-    "Powrachute",
-    "Pratt-Read",
-    "Pro-Composites",
-    "Progressive Aerodyne",
-    "Quest Aircraft",
-    "Quicksilver Aircraft",
-    "Rans Designs",
-    "Raven Rotorcraft",
-    "Rud Aero",
-    "List of Sherman Fairchild companies",
-    "Six Chuter",
-    "Skyworks Global",
-    "Soaring Concepts",
-    "Sonex Aircraft",
-    "Spartan Microlights",
-    "Spectrum Aeronautical",
-    "Spirit AeroSystems",
-    "Sport Copter",
-    "Stewart Aircraft Corporation",
-    "Swift Engineering",
-    "SyberJet Aircraft",
-    "Taylorcraft Aircraft",
-    "Team Mini-Max",
-    "Team Tango",
-    "Terrafugia",
-    "Textron Aviation",
-    "Thrush Aircraft",
-    "Titan Aircraft",
-    "Unison Industries",
-    "Univair Aircraft Corporation",
-    "Utilicraft Aerospace Industries",
-    "Van's Aircraft",
-    "Venture Light Aircraft",
-    "Viking Aircraft LLC",
-    "Volansi",
-    "Vortech",
-    "Vought",
-    "Vought Aircraft Industries",
-    "WACO Classic Aircraft",
-    "Wag-Aero",
-    "War Aircraft Replicas International",
-    "Warner Aerocraft",
-    "Wills Wing",
-    "Windward Performance",
-    "Wisk Aero",
-    "Worldwide Aeros Corp",
-    "Wright Electric",
-    "Robert F. Yonash",
-    "Zenith Aircraft Company",
-    "Zivko Aeronautics"
+    {
+      "name": "Ace Aircraft Manufacturing Company"
+    },
+    {
+      "name": "Adcox Aviation Trade School"
+    },
+    {
+      "name": "Advanced Aircraft"
+    },
+    {
+      "name": "Aero Adventure"
+    },
+    {
+      "name": "AeroLites"
+    },
+    {
+      "name": "Aeronca Aircraft"
+    },
+    {
+      "name": "AeroVironment"
+    },
+    {
+      "name": "Air Command International"
+    },
+    {
+      "name": "Air Tractor"
+    },
+    {
+      "name": "Airbus North America"
+    },
+    {
+      "name": "Aircraft Manufacturing and Design"
+    },
+    {
+      "name": "Aircraft Sales and Parts"
+    },
+    {
+      "name": "Aircraft Spruce & Specialty Co"
+    },
+    {
+      "name": "Airdrome Aeroplanes"
+    },
+    {
+      "name": "Airship Management Services"
+    },
+    {
+      "name": "Alef Aeronautics"
+    },
+    {
+      "name": "American Blimp Corporation"
+    },
+    {
+      "name": "American Champion"
+    },
+    {
+      "name": "Ampaire"
+    },
+    {
+      "name": "Archer Aviation"
+    },
+    {
+      "name": "AviaBellanca Aircraft"
+    },
+    {
+      "name": "Aviat"
+    },
+    {
+      "name": "Aviation Partners"
+    },
+    {
+      "name": "Avid Aircraft"
+    },
+    {
+      "name": "Backcountry Super Cubs"
+    },
+    {
+      "name": "Barnett Rotorcraft"
+    },
+    {
+      "name": "Beaujon Aircraft"
+    },
+    {
+      "name": "Bede Aircraft"
+    },
+    {
+      "name": "Beechcraft"
+    },
+    {
+      "name": "Belite Aircraft"
+    },
+    {
+      "name": "Beta Technologies"
+    },
+    {
+      "name": "Boeing Defense, Space & Security"
+    },
+    {
+      "name": "Boom Technology"
+    },
+    {
+      "name": "Bye Aerospace"
+    },
+    {
+      "name": "Calumet Motorsports"
+    },
+    {
+      "name": "Carlson Aircraft"
+    },
+    {
+      "name": "Carter Aviation Technologies"
+    },
+    {
+      "name": "Cessna"
+    },
+    {
+      "name": "CGS Aviation"
+    },
+    {
+      "name": "Charlotte Aircraft Corporation"
+    },
+    {
+      "name": "Cirrus Aircraft"
+    },
+    {
+      "name": "Comp Air"
+    },
+    {
+      "name": "Cub Crafters"
+    },
+    {
+      "name": "Curtiss-Wright"
+    },
+    {
+      "name": "Eaton Corporation"
+    },
+    {
+      "name": "Eclipse Aerospace"
+    },
+    {
+      "name": "Electric Aircraft Corporation"
+    },
+    {
+      "name": "Ellison-Mahon Aircraft"
+    },
+    {
+      "name": "Epic Aircraft"
+    },
+    {
+      "name": "Exosonic"
+    },
+    {
+      "name": "Frakes Aviation"
+    },
+    {
+      "name": "Free Bird Innovations"
+    },
+    {
+      "name": "General Atomics Aeronautical Systems"
+    },
+    {
+      "name": "General Dynamics"
+    },
+    {
+      "name": "Glasair Aviation"
+    },
+    {
+      "name": "Great Lakes Aircraft Company"
+    },
+    {
+      "name": "Green Sky Adventures"
+    },
+    {
+      "name": "Griffon Aerospace"
+    },
+    {
+      "name": "Gulfstream Aerospace"
+    },
+    {
+      "name": "Gyro-Kopp-Ters"
+    },
+    {
+      "name": "Hawker Beechcraft"
+    },
+    {
+      "name": "Hermeus"
+    },
+    {
+      "name": "Hiller Aircraft"
+    },
+    {
+      "name": "Honda Aircraft Company"
+    },
+    {
+      "name": "Hummel Aviation"
+    },
+    {
+      "name": "ICON Aircraft"
+    },
+    {
+      "name": "Indy Aircraft"
+    },
+    {
+      "name": "Infinity Power Chutes"
+    },
+    {
+      "name": "Joby Aviation"
+    },
+    {
+      "name": "Just Aircraft"
+    },
+    {
+      "name": "Kolb Aircraft Company"
+    },
+    {
+      "name": "Lancair"
+    },
+    {
+      "name": "Leading Edge Air Foils"
+    },
+    {
+      "name": "Little Wing Autogyros, Inc."
+    },
+    {
+      "name": "Lockheed Martin"
+    },
+    {
+      "name": "Lockheed Martin Aeronautics"
+    },
+    {
+      "name": "Lockwood Aircraft"
+    },
+    {
+      "name": "Makelan Corporation"
+    },
+    {
+      "name": "Marsh Aviation"
+    },
+    {
+      "name": "Maule Air"
+    },
+    {
+      "name": "McDonnell Douglas"
+    },
+    {
+      "name": "Midwest Engineering & Design"
+    },
+    {
+      "name": "Mirage Aircraft Corporation"
+    },
+    {
+      "name": "Mooney International Corporation"
+    },
+    {
+      "name": "Natilus"
+    },
+    {
+      "name": "North American Rotorwerks"
+    },
+    {
+      "name": "North Wing Design"
+    },
+    {
+      "name": "Northrop Grumman"
+    },
+    {
+      "name": "One Aviation"
+    },
+    {
+      "name": "Paramotor Inc"
+    },
+    {
+      "name": "Paratour"
+    },
+    {
+      "name": "Pazmany Aircraft Corporation"
+    },
+    {
+      "name": "Piccard Balloons"
+    },
+    {
+      "name": "Piper Aircraft"
+    },
+    {
+      "name": "Powrachute"
+    },
+    {
+      "name": "Pratt-Read"
+    },
+    {
+      "name": "Pro-Composites"
+    },
+    {
+      "name": "Progressive Aerodyne"
+    },
+    {
+      "name": "Quest Aircraft"
+    },
+    {
+      "name": "Quicksilver Aircraft"
+    },
+    {
+      "name": "Rans Designs"
+    },
+    {
+      "name": "Raven Rotorcraft"
+    },
+    {
+      "name": "Rud Aero"
+    },
+    {
+      "name": "List of Sherman Fairchild companies"
+    },
+    {
+      "name": "Six Chuter"
+    },
+    {
+      "name": "Skyworks Global"
+    },
+    {
+      "name": "Soaring Concepts"
+    },
+    {
+      "name": "Sonex Aircraft"
+    },
+    {
+      "name": "Spartan Microlights"
+    },
+    {
+      "name": "Spectrum Aeronautical"
+    },
+    {
+      "name": "Spirit AeroSystems"
+    },
+    {
+      "name": "Sport Copter"
+    },
+    {
+      "name": "Stewart Aircraft Corporation"
+    },
+    {
+      "name": "Swift Engineering"
+    },
+    {
+      "name": "SyberJet Aircraft"
+    },
+    {
+      "name": "Taylorcraft Aircraft"
+    },
+    {
+      "name": "Team Mini-Max"
+    },
+    {
+      "name": "Team Tango"
+    },
+    {
+      "name": "Terrafugia"
+    },
+    {
+      "name": "Textron Aviation"
+    },
+    {
+      "name": "Thrush Aircraft"
+    },
+    {
+      "name": "Titan Aircraft"
+    },
+    {
+      "name": "Unison Industries"
+    },
+    {
+      "name": "Univair Aircraft Corporation"
+    },
+    {
+      "name": "Utilicraft Aerospace Industries"
+    },
+    {
+      "name": "Van's Aircraft"
+    },
+    {
+      "name": "Venture Light Aircraft"
+    },
+    {
+      "name": "Viking Aircraft LLC"
+    },
+    {
+      "name": "Volansi"
+    },
+    {
+      "name": "Vortech"
+    },
+    {
+      "name": "Vought"
+    },
+    {
+      "name": "Vought Aircraft Industries"
+    },
+    {
+      "name": "WACO Classic Aircraft"
+    },
+    {
+      "name": "Wag-Aero"
+    },
+    {
+      "name": "War Aircraft Replicas International"
+    },
+    {
+      "name": "Warner Aerocraft"
+    },
+    {
+      "name": "Wills Wing"
+    },
+    {
+      "name": "Windward Performance"
+    },
+    {
+      "name": "Wisk Aero"
+    },
+    {
+      "name": "Worldwide Aeros Corp"
+    },
+    {
+      "name": "Wright Electric"
+    },
+    {
+      "name": "Robert F. Yonash"
+    },
+    {
+      "name": "Zenith Aircraft Company"
+    },
+    {
+      "name": "Zivko Aeronautics"
+    }
   ]
 }
